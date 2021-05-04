@@ -2,4 +2,4 @@
 
 set -e
 
-echo "Hello"
+echo "Hello everybody"
